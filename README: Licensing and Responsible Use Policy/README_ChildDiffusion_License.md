@@ -33,3 +33,12 @@ Use of this resource in violation of these terms constitutes a breach of license
 ## 📬 Contact
 
 If you have questions about appropriate usage or seek exemptions for academic research under strict ethical guidelines, please contact us at: [mali.frq@gmail.com]
+
+ADDITIONAL TERMS:
+
+This model and dataset are licensed under CC BY-NC-ND 4.0 with the following additional restrictions:
+
+The use of this work for biometric spoofing, identity impersonation, surveillance technologies, deceptive applications, or unauthorized use of likeness is strictly prohibited.
+
+Violation of these terms will be considered misuse and may result in license revocation and legal action.
+
