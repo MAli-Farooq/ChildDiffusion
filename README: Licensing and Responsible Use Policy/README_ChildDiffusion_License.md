@@ -32,4 +32,4 @@ Use of this resource in violation of these terms constitutes a breach of license
 
 ## 📬 Contact
 
-If you have questions about appropriate usage or seek exemptions for academic research under strict ethical guidelines, please contact us at: [your.email@domain.edu]
+If you have questions about appropriate usage or seek exemptions for academic research under strict ethical guidelines, please contact us at: [mali.frq@gmail.com]
