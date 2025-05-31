@@ -125,11 +125,11 @@ Repeat the process for GirlDiffusion by changing the data path and prompt.
 
 ### BoyDiffusion
 
-![Boy Training Sample](Assets/Boy.png)
+![Boy Training Sample](Assets/Boy.PNG)
 
 ### GirlDiffusion
 
-![Girl Training Sample](Assets/Girls.png)
+![Girl Training Sample](Assets/Girls.PNG)
 
 Make sure your training images are consistent in framing and resolution (e.g., 512×512) for best results.
 
