@@ -129,7 +129,7 @@ Repeat the process for GirlDiffusion by changing the data path and prompt.
 
 ### GirlDiffusion
 
-![Girl Training Sample](Assets/Girls.PNG)
+![Girl Training Sample](Assets/Girl.PNG)
 
 Make sure your training images are consistent in framing and resolution (e.g., 512×512) for best results.
 
