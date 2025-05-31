@@ -25,7 +25,7 @@ The pipeline includes:
 4. ControlNet conditioning for spatial guidance
 5. Model merging to create the ChildDiffusion unified generator
 
-![ChildDiffusion Pipeline](Figures/Figure%20Block%20Diagram.png)
+![ChildDiffusion Pipeline](Assets/BD.PNG)
 
 ---
 
