@@ -62,9 +62,21 @@ This project is released under the MIT License.
 
 ## 👨‍💻 Citation & Contact
 
-If you use this work, please cite our paper (coming soon). For questions or collaboration inquiries, please contact [Your Name] or open an issue.
+If you use this work, please cite the following papers. For questions or collaboration inquiries, please contact [Your Name] or open an issue.
 
+@ARTICLE{10268402,
+  author={Farooq, Muhammad Ali and Yao, Wang and Costache, Gabriel and Corcoran, Peter},
+  journal={IEEE Access}, 
+  title={ChildGAN: Large Scale Synthetic Child Facial Data Using Domain Adaptation in StyleGAN}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={108775-108791},
+  keywords={Generative adversarial networks;Synthetic data;Data models;Adaptation models;Training;Aerospace electronics;Transfer learning;Dataset;GANs;GDPR;transformations;transfer learning},
+  doi={10.1109/ACCESS.2023.3321149}}
 
+  
+ChildDiffusion: Unlocking the Potential of Generative AI and Controllable Augmentations for Child Facial Data using Stable Diffusion and Large Language Models" (Digital Object Identifier or DOI: 10.1109/ACCESS.2025.3575964).
 
 ---
 
